@@ -16,8 +16,8 @@ Multi-Person Video Mode: Designed for high-angle video feeds, this mode can trac
 Interactive Interface: Built with Streamlit, the user-friendly UI makes attendance management a breeze for educators.
 Accuracy-Driven: Calculates confidence scores (accuracy) for each identified face based on IDs, with potential for enhanced voting-based attendance.
 
-<img src="https://github.com/user-attachments/assets/dad3efff-cfd0-42ec-919b-207b229a886f" width="500"/>
-<img src="https://github.com/user-attachments/assets/ba5b9a04-b144-44a1-baa2-53d47a6c54f5" width="500"/>
+<img src="https://github.com/user-attachments/assets/dad3efff-cfd0-42ec-919b-207b229a886f" width="300"/> <img src="https://github.com/user-attachments/assets/ba5b9a04-b144-44a1-baa2-53d47a6c54f5" width="300"/>
+
 
 📂 What's Inside?
 
